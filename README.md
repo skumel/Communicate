@@ -2,6 +2,10 @@
 
 **Communicate** is an offline peer-to-peer (P2P) voice intercom and real-time GPS telemetry Android application built for e-bike and motorcycle riders.
 
+## Download APK
+
+- **[Download Communicate-v1.0.apk](https://github.com/skumel/Communicate/raw/main/releases/Communicate-v1.0.apk)** (Android 8.0+ / API 26+)
+
 ## Features
 
 - **Instant QR Code Pairing**: Host a session and generate a QR code with an embedded mutual authentication token, or scan a riding partner's QR code to connect without internet or cell service.
@@ -14,7 +18,7 @@
 ## Building
 
 1. Open the project in **Android Studio** (or set `JAVA_HOME` to JDK 17/21).
-2. Build the debug APK:
+2. Build the APK:
    ```bash
-   ./gradlew assembleDebug
+   ./gradlew assembleRelease
    ```
