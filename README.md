@@ -4,7 +4,8 @@
 
 ## Download APK
 
-- **[Download Communicate-v1.0.apk](https://github.com/skumel/Communicate/raw/main/releases/Communicate-v1.0.apk)** (Android 8.0+ / API 26+)
+- **[Download Communicate-v1.0.apk (Latest Release)](https://github.com/skumel/Communicate/releases/latest/download/Communicate-v1.0.apk)** (Android 8.0+ / API 26+)
+- **[View All Releases](https://github.com/skumel/Communicate/releases)**
 
 ## Features
 
