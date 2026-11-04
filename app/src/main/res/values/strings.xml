@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">E-Bike Communicator</string>
+    <string name="channel_name">Bike Comms Foreground Service</string>
+    <string name="channel_description">Keeps offline audio comms and location tracking active while riding.</string>
+</resources>
